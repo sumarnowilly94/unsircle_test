@@ -1,0 +1,10 @@
+.login {
+  padding-top: 30px;
+  text-align: center;
+}
+
+.login form {
+  background-color: aliceblue;
+  border-radius: 10px;
+  padding: 20px;
+}

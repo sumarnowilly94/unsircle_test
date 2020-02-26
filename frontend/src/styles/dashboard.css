@@ -1,0 +1,14 @@
+.dashboard {
+  padding-top: 30px;
+  text-align: center;
+}
+
+.dashboard button {
+  margin-top: 10px;
+}
+
+.dashboard-center {
+  background-color: aliceblue;
+  border-radius: 10px;
+  padding: 20px;
+}
